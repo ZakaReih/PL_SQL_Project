@@ -1,0 +1,2 @@
+# PL_SQL_Project
+I previously implemented an online sports goods marketing project. Within the project, users have the ability to order various items, such as clothing and equipment, and also avail additional services like cleaning, repair, and washing. To facilitate the project's functionality, I utilized SQL for database management and order processing. Please feel free to ask if you have specific questions regarding the implementation of SQL in the project.
