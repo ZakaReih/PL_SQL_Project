@@ -1,2 +1,4 @@
 # PL_SQL_Project
 I previously implemented an online sports goods marketing project. Within the project, users have the ability to order various items, such as clothing and equipment, and also avail additional services like cleaning, repair, and washing. To facilitate the project's functionality, I utilized SQL for database management and order processing. Please feel free to ask if you have specific questions regarding the implementation of SQL in the project.
+
+Ранее я реализовал проект по маркетингу спортивных товаров онлайн. В рамках проекта пользователи имеют возможность заказывать различные товары, такие как одежда и оборудование, а также приобретать дополнительные услуги, такие как уборка, ремонт и стирка. Для обеспечения функциональности проекта, я использовал SQL для управления базой данных и обработки заказов. Пожалуйста, дайте знать, если у вас есть конкретные вопросы относительно реализации SQL в проекте.
